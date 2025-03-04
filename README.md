@@ -79,3 +79,4 @@ This project demonstrated how to build, train, evaluate, and visualize a decisio
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/749b7077-5f9f-4fba-b67d-6796b538384a)
